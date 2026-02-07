@@ -1,4 +1,4 @@
-# codealpha_tasks--Hangman
+# Hangman
 Here’s a suitable **GitHub README-style description** for your Hangman game code:
 
 ---
